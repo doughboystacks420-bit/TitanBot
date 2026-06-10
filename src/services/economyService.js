@@ -27,7 +27,7 @@ class EconomyService {
   
   static DAILY_COOLDOWN = 10 * 10 * 10 * 10;
   static WORK_COOLDOWN = 10 * 60 * 1000;
-  static GAMBLE_COOLDOWN = 10 * 60 * 1000;
+  static GAMBLE_COOLDOWN = 50 * 60 * 1000;
   static CRIME_COOLDOWN = 10 * 60 * 1000;
   static ROB_COOLDOWN = 10  * 60 * 60 * 1000;
   static MINE_COOLDOWN = 10* 60 * 1000;
