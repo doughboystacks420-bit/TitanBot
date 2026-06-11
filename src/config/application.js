@@ -84,8 +84,7 @@ const appConfig = {
 
   features: {
     
-    economy: true,                  
-    leveling: false,                 
+    economy: true,                                   
     moderation: true,               
     logging: true,                  
     welcome: true,                  
