@@ -20,15 +20,14 @@ export const botConfig = {
     // 1 = Streaming
     // 2 = Listening
     // 3 = Watching
-    // 4 = Custom
+    // 4 = building
     // 5 = Competing
-    // 6 = doing
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
         name: "drugs and no sleep",
         // Activity type number (0 = Playing).
-        type: 6, 
+        type: 4, 
       },
     ],
   },
