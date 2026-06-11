@@ -454,7 +454,7 @@ export const botConfig = {
     joinToCreate: true,
 
     // Utility/quality-of-life modules.
-    voice: fasle,
+    voice: false,
     search: true,
     tools: true,
     utility: true,
